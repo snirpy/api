@@ -1,7 +1,7 @@
 import requests
 
 
-api_key = 'dfb53877c237e5af40f8d9df15913ea5'
+api_key = 'Votre clé API'
 city_name = 'Clichy'
 url = f"http://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={api_key}&units=metric"
 
