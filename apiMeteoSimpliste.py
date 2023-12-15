@@ -13,7 +13,5 @@ data = response.json()
 print(data)
 
 
-# temperature = data['main']['temp']
-# description = data['weather'][0]['description'] 
-# print(f"Temperature in {city_name}: {temperature}°C, {description}")
+
        
