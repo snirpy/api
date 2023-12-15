@@ -24,7 +24,7 @@ def get_weather(api_key, city):
         print(f"Erreur lors de la requête : {str(e)}")
 
 # Remplacez 'YOUR_API_KEY' par votre clé API OpenWeatherMap
-api_key = 'dfb53877c237e5af40f8d9df15913ea5'
+api_key = 'YOUR_API_KEY'
 city = 'Paris'
 
 get_weather(api_key, city)
